@@ -1,7 +1,7 @@
 
 # VU Machine Learning Reading Group
 
-This will be a link to [sign up for the email listserv](about:blank) but right now it's just a dead link.
+This will be a link to [sign up for the email listserv](https://github.com/dcmoyer/vu-ml-reading-group) but right now it's just a dead link.
 
 Current meeting time: Monday 3-4pm Central
 
