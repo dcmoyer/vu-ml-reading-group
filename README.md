@@ -1,5 +1,5 @@
 
-#VU Machine Learning Reading Group
+# VU Machine Learning Reading Group
 
 This will be a link to [sign up for the email listserv](about:blank) but right now it's just a dead link.
 
