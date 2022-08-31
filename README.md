@@ -3,9 +3,11 @@
 
 This will be a link to [sign up for the email listserv](https://github.com/dcmoyer/vu-ml-reading-group) but right now it's just a dead link.
 
-Current meeting time: Monday 3-4pm Central
+Current meeting time: Monday 3-4pm Central  
 
-Rated 10/10, 5 stars, Weak Accept (Poster).
+Current meeting location: FGH 308  
+
+Rated 10/10, 5 stars, Weak Accept (Poster).  
 
 ## Submitting to the Paper Queue
 
@@ -13,12 +15,18 @@ For now, submit a github issue to add papers to the queue. As a group we'll sele
 
 ## Current Paper
 
+2022-09-05:  
+Dataset Distillation  
+Wang, Zhu, Torralba, Efros  
+[[arxiv](https://arxiv.org/abs/1811.10959)]
+
+
+## Previous Papers
+
 2022-08-29:  
 FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation  
 Yang, Chen, Shen, Tian  
 CVPR 2018  
 [[arxiv](https://arxiv.org/abs/1712.07262)]
 
-
-## Previous Papers
 
