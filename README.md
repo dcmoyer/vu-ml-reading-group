@@ -1,7 +1,7 @@
 
 # VU Machine Learning Reading Group
 
-This will be a link to [sign up for the email listserv](https://github.com/dcmoyer/vu-ml-reading-group) but right now it's just a dead link.
+Instructions to sign up for the email listserv found [here](listserv_signup.md).
 
 Current meeting time: Monday 3-4pm Central  
 
@@ -15,13 +15,19 @@ For now, submit a github issue to add papers to the queue. As a group we'll sele
 
 ## Current Paper
 
+2022-09-12:
+The Lottery Ticket Hypothesis  
+Frankle, Carbin  
+[[arxiv](https://arxiv.org/abs/1803.03635)]
+
+
+
+## Previous Papers
+
 2022-09-05:  
 Dataset Distillation  
 Wang, Zhu, Torralba, Efros  
 [[arxiv](https://arxiv.org/abs/1811.10959)]
-
-
-## Previous Papers
 
 2022-08-29:  
 FoldingNet: Point Cloud Auto-encoder via Deep Grid Deformation  
