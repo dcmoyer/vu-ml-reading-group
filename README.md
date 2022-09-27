@@ -15,16 +15,21 @@ For now, submit a github issue to add papers to the queue. As a group we'll sele
 
 ## Current Paper
 
-2022-09-19:
+2022-09-26:  
+Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery  
+Wang, Long, Fan, Dou  
+[[arxiv](https://arxiv.org/abs/2206.15255)]  
 
+
+## Previous Papers
+
+2022-09-19:  
 Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation  
 Simeonov, Du, Tagliasacchi, Tenenbaum, Rodriguez, Agrawal, Sitzmann  
 [[arxiv](https://arxiv.org/abs/2112.05124)]  
 [[project website](https://yilundu.github.io/ndf/)]  
 
-## Previous Papers
-
-2022-09-12:
+2022-09-12:  
 The Lottery Ticket Hypothesis  
 Frankle, Carbin  
 [[arxiv](https://arxiv.org/abs/1803.03635)]
