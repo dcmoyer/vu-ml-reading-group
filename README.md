@@ -15,13 +15,17 @@ For now, submit a github issue to add papers to the queue. As a group we'll sele
 
 ## Current Paper
 
+2022-10-03:  
+Gradients without Backpropagation  
+Baydin, Pearlmutter, Syme, Wood, Torr  
+[[arxiv](https://arxiv.org/abs/2202.08587)]  
+
+## Previous Papers
+
 2022-09-26:  
 Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery  
 Wang, Long, Fan, Dou  
 [[arxiv](https://arxiv.org/abs/2206.15255)]  
-
-
-## Previous Papers
 
 2022-09-19:  
 Neural Descriptor Fields: SE(3)-Equivariant Object Representations for Manipulation  
