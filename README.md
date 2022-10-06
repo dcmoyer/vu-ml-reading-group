@@ -15,12 +15,17 @@ For now, submit a github issue to add papers to the queue. As a group we'll sele
 
 ## Current Paper
 
+2022-10-10:
+Online Certification of Preference-Based Fairness for Personalized Recommender Systems  
+Do, Corbett-Davies, Atif, Usunier  
+[[AAAI conf. site](https://aaai-2022.virtualchair.net/poster_aaai3798?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfJZsNrEuaTHBeO4XVe1YgKhJGWx53eMiSKK3SZGaWj0flN6mIM6pmAaAmSJEALw_wcB)]  
+
+## Previous Papers
+
 2022-10-03:  
 Gradients without Backpropagation  
 Baydin, Pearlmutter, Syme, Wood, Torr  
 [[arxiv](https://arxiv.org/abs/2202.08587)]  
-
-## Previous Papers
 
 2022-09-26:  
 Neural Rendering for Stereo 3D Reconstruction of Deformable Tissues in Robotic Surgery  
