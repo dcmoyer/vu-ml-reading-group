@@ -15,12 +15,29 @@ For now, submit a github issue to add papers to the queue. As a group we'll sele
 
 ## Current Paper
 
-2022-10-10:
+Visual Deprojection: Probabilistic Recovery of Collapsed Dimensions  
+Balakrishnan, Dalca, Zhou, Guttag, Durand, Freeman  
+[[arxiv](https://arxiv.org/abs/1909.00475)]  
+
+## Previous Papers
+
+2022-11-14:  
+Compressed Predictive Information Coding 
+Under Review (ICLR)  
+[[Open Review](https://openreview.net/pdf?id=rde9B5ue32F)]  
+
+2022-11-06:  
+2022-10-31:  
+2022-10-24:  
+Denoising Diffusion Probabilistic Models  
+Ho, Jain, Abbeel  
+[[arxiv](https://arxiv.org/abs/2006.11239)]  
+
+2022-10-10:  
 Online Certification of Preference-Based Fairness for Personalized Recommender Systems  
 Do, Corbett-Davies, Atif, Usunier  
 [[AAAI conf. site](https://aaai-2022.virtualchair.net/poster_aaai3798?gclid=Cj0KCQjwkOqZBhDNARIsAACsbfJZsNrEuaTHBeO4XVe1YgKhJGWx53eMiSKK3SZGaWj0flN6mIM6pmAaAmSJEALw_wcB)]  
 
-## Previous Papers
 
 2022-10-03:  
 Gradients without Backpropagation  
