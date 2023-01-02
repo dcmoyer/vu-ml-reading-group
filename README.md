@@ -22,7 +22,7 @@ CVPR 2018
  
 ## Previous Papers
 
-2022-11-30
+2022-11-30:  
 Visual Deprojection: Probabilistic Recovery of Collapsed Dimensions  
 Balakrishnan, Dalca, Zhou, Guttag, Durand, Freeman  
 [[arxiv](https://arxiv.org/abs/1909.00475)] 
