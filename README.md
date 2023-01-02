@@ -15,10 +15,10 @@ For now, submit a github issue to add papers to the queue. As a group we'll sele
 
 ## Current Paper
 
-SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
-Fey, Lenessen, Weichert, Muller
-CVPR 2018
-[[arxiv](https://arxiv.org/abs/1711.08920)]
+SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels  
+Fey, Lenessen, Weichert, Muller  
+CVPR 2018  
+[[arxiv](https://arxiv.org/abs/1711.08920)]  
  
 ## Previous Papers
 
