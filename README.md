@@ -3,7 +3,7 @@
 
 Instructions to sign up for the email listserv found [here](listserv_signup.md).
 
-Current meeting time: Monday 3-4pm Central  
+Current meeting time: TBD! (Email Daniel Moyer for the Whenisgood link)  
 
 Current meeting location: FGH 308  
 
@@ -15,11 +15,17 @@ For now, submit a github issue to add papers to the queue. As a group we'll sele
 
 ## Current Paper
 
+SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels
+Fey, Lenessen, Weichert, Muller
+CVPR 2018
+[[arxiv](https://arxiv.org/abs/1711.08920)]
+ 
+## Previous Papers
+
+2022-11-30
 Visual Deprojection: Probabilistic Recovery of Collapsed Dimensions  
 Balakrishnan, Dalca, Zhou, Guttag, Durand, Freeman  
-[[arxiv](https://arxiv.org/abs/1909.00475)]  
-
-## Previous Papers
+[[arxiv](https://arxiv.org/abs/1909.00475)] 
 
 2022-11-14:  
 Compressed Predictive Information Coding 
